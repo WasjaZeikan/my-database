@@ -69,6 +69,7 @@ CTestTestfile.cmake
 _deps
 
 build/
+.vscode/
 ### CMake Patch ###
 # External projects
 *-prefix/
